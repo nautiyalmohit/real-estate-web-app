@@ -104,6 +104,9 @@
         .search-bar {
             padding-left: 8px;
             padding-right: 8px;
-        }    
+        }  
+        .search-bar>input {
+            max-width: 100px;
+        } 
     }
 }
